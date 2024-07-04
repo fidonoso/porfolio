@@ -1,0 +1,255 @@
+{
+    "name": "Fernando Donoso",
+    "profession":"Técnico en informática - Desarrollador web",
+    "dataNameCert": [
+        "Certificado de título",
+        "Fundamentos profesionales en ciberseguridad, por Microsoft y LinkedIn",
+        "Fundamentos de ciberseguridad PM",
+        "Fundamentos de ciberseguridad",
+        "Fundamentos de la carrera de administracion de sistemas de Microsoft y LinkedIn",
+        "Fundamentos profesionales del desarrollo de software, por Microsoft y LinkedIn",
+        "Desarrollador Full Stack Javascript, Desafio Latam",
+        "Desarrollador Full Stack Javascript, Servicio nacional de capacitación y empleo",
+        "Insignias de Amazon Web Services (AWS academy)",
+        "Database Design, Oracle Academy",
+        "Database Foundations Cumulative Final Exam, Oracle Academy",
+        "Database Foundations, Oracle Academy",
+        "ciberseguridad para principiantes - Estratégias para proteger tu espacio digital"
+    ],
+
+    "myskillsData":[
+        {
+            "title":"Front-End",
+            "data":[
+                {
+                    "name":"HTML",
+                    "icon":"html.svg"
+                },
+                {
+                    "name":"CSS",
+                    "icon":"css.svg"
+                },
+                {
+                    "name":"Javascript",
+                    "icon":"js.svg"
+                },
+                {
+                    "name":"Vue",
+                    "icon":"vue.svg"
+                },
+                {
+                    "name":"React",
+                    "icon":"react.svg"
+                },
+                {
+                    "name":"NextJS",
+                    "icon":"nextjs.svg"
+                },
+                {
+                    "name":"Bootstrap",
+                    "icon":"bootstrap.svg"
+                },
+                {
+                    "name":"Tailwind",
+                    "icon":"tailwind.svg"
+                }
+            ]
+    
+        },
+        {
+            "title":"Back-End",
+            "data":[
+                {
+                    "name":"NodeJS",
+                    "icon":"node.svg"
+                },
+                {
+                    "name":"Express",
+                    "icon":"express.svg"
+                },
+                {
+                    "name":"NestJS",
+                    "icon":"nest.svg"
+                },
+                {
+                    "name":"Sequelize",
+                    "icon":"sequelize.svg"
+                },
+                {
+                    "name":"Postgres",
+                    "icon":"postgres.svg"
+                },
+                {
+                    "name":"MySql",
+                    "icon":"mysql.svg"
+                },
+                {
+                    "name":"SQL Server",
+                    "icon":"sql_server.svg"
+                },
+                {
+                    "name":"Mongo DB",
+                    "icon":"mongodb.svg"
+                },
+                {
+                    "name":"Graphql",
+                    "icon":"graphql.svg"
+                }
+            ]
+    
+        },
+        {
+            "title":"DevOps",
+            "data":[
+                {
+                    "name":"Docker",
+                    "icon":"docker.svg"
+                },
+                {
+                    "name":"Nginx",
+                    "icon":"nginx.svg"
+                },
+                {
+                    "name":"VS code",
+                    "icon":"vscode.svg"
+                },
+                {
+                    "name":"Github",
+                    "icon":"github.svg"
+                },
+                {
+                    "name":"Git",
+                    "icon":"git.svg"
+                },
+                {
+                    "name":"AWS",
+                    "icon":"aws.svg"
+                },
+                {
+                    "name":"GCP",
+                    "icon":"gcp.svg"
+                }
+            ]
+    
+        },
+        {
+            "title":"Otras tecnologías",
+            "data":[
+                {
+                    "name":"Odoo",
+                    "icon":"odoo.svg"
+                },
+                {
+                    "name":"OpenAi",
+                    "icon":"openai.svg"
+                }
+            ]
+        }
+    ],
+
+    "myServices":[
+        {
+            "title":"Desarrollo web",
+            "description":"Creación de sitios web responsivos utilizando HTML, CSS, y JavaScript.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Diseño de Interfaces",
+            "description":"Diseño de interfaces de usuario modernas con Tailwind y Bootstrap.",
+            "icon":"code.png",
+            "link":"#"
+        },
+    
+        {
+            "title":"Desarrollo Backend",
+            "description":"Desarrollo de APIs y lógica de servidor con Node.js, Express y Nest.js.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Bases de Datos",
+            "description":"Configuración y administración de bases de datos SQL y NoSQL como PostgreSQL, MySQL, SQL Server y MongoDB.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Orquestación de Contenedores",
+            "description":"Implementación y gestión de aplicaciones con Docker y Docker Compose.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Despliegue en la Nube",
+            "description":"Despliegue y gestión de aplicaciones en Google Cloud Platform y AWS.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"APIs REST y GraphQL",
+            "description":"Creación y consumo de APIs RESTful y GraphQL.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Integración con Odoo",
+            "description":"Personalización y extensión de funcionalidades en Odoo.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Inteligencia Artificial",
+            "description":"Implementación de soluciones utilizando APIs de OpenAI.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Desarrollo Frontend",
+            "description":"Creación de aplicaciones web dinámicas con Vue, React y Next.js.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Control de Versiones",
+            "description":"Gestión de código fuente utilizando Git y GitHub.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Servidor Web",
+            "description":"Configuración y mantenimiento de servidores web con Nginx y Nginx Proxy Manager.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Automatización de Tareas",
+            "description":"Desarrollo de scripts y automatizaciones con Python.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Desarrollo PHP",
+            "description":"Creación de aplicaciones web y scripts utilizando PHP.",
+            "icon":"code.png",
+            "link":"#"
+        },
+        {
+            "title":"Alojamiento en la Nube",
+            "description":"Configuración y gestión de servidores en Digital Ocean.",
+            "icon":"code.png",
+            "link":"#"
+        }
+    ],
+
+    "last_projects":[
+        {
+            "project_name":"Arkanoid",
+            "description":"Es un proyecto de frontend utilizando tecnologias web básicas como html, css y javascript. El reto fue crear un juego usando canvas, sprites del clasico juego Arkanoid de la era Arcade, y programacion modular para poder ir incrementando gradualmente las características del juego.",
+            "technologies":["HTML", "CSS", "Javascript"],
+            "img_preview":"arkanoid.jpg",
+            "source_code":"#",
+            "live_preview":"http://proyecto_arkanoid:82"
+        }
+    ]
+
+}
