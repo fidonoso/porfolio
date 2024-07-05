@@ -8,7 +8,7 @@ async function main(){
     //  console.log('La conexion con la base de datos ha sido exitosa')
 
      
-     app.listen(3000, ()=>{ console.log('Escuchando en el puerto 3000')})
+     app.listen(app.get('port'), ()=>{ console.log('Escuchando en el puerto ' + app.get('port'))})
     } catch (error) {
       console.log('error en la conexion', error)
     }
