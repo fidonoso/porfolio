@@ -52,10 +52,6 @@
                 {
                     "name":"Tailwind",
                     "icon":"tailwind.svg"
-                },
-                {
-                    "name":"Jenkins",
-                    "icon":"jenkins.svg"
                 }
             ]
     
@@ -132,6 +128,10 @@
                 {
                     "name":"GCP",
                     "icon":"gcp.svg"
+                },
+                {
+                    "name":"Jenkins",
+                    "icon":"jenkins.svg"
                 }
             ]
     
